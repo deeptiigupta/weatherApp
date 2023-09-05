@@ -1,4 +1,3 @@
 # weatherApp
-A weather Application
-Built using HTML, CSS, Javascript.
+A weather application built using HTML, CSS, javascript.
 
